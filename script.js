@@ -1,0 +1,3 @@
+function Bruh(){
+alert("LOL");
+}
