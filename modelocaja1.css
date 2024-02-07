@@ -1,0 +1,56 @@
+home,
+registro,
+login,
+formulario,
+
+
+.mainpic {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(189, 189, 189);
+    box-shadow: 10px 15px 15px rgb(90, 90, 90);
+    border-radius: 10px; /* makes border rounded */
+    border: 3px solid rgb(133, 133, 133);
+
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    padding-left: 80%;
+    padding-right: 80%;
+    max-width: 25rem;
+
+}
+
+.alpha {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+    margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: grey;
+    box-shadow: 10px 5px 5px black;
+
+    padding: 50px;
+    padding-left: 80%;
+    padding-right: 80%;
+    
+    max-width: 25rem;
+}
+
+.alphabox1 {
+height: 20px;
+}
+
+.icon1 {
+margin: 10px;
+height: 20px;
+}
+
+.charliebox1 {
+height: 20px;
+}
